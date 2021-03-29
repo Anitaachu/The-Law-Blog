@@ -34,4 +34,4 @@ pip install -r requirements.txt
 # Contributing
 * Clone repository and change directory into that clone.
 * Pull requests are welcomed.
-* Open issue to make changes you would like to see.
+* Open issues to make changes you would like to see.
